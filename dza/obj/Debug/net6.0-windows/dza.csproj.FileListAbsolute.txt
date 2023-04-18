@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\dza\dza\bin\Debug\net6.0-windows\dza.exe
+C:\Users\user\source\repos\dza\dza\bin\Debug\net6.0-windows\dza.deps.json
+C:\Users\user\source\repos\dza\dza\bin\Debug\net6.0-windows\dza.runtimeconfig.json
+C:\Users\user\source\repos\dza\dza\bin\Debug\net6.0-windows\dza.dll
+C:\Users\user\source\repos\dza\dza\bin\Debug\net6.0-windows\ref\dza.dll
+C:\Users\user\source\repos\dza\dza\bin\Debug\net6.0-windows\dza.pdb
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.Form1.resources
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.csproj.GenerateResource.cache
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.AssemblyInfo.cs
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.dll
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\ref\dza.dll
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.pdb
+C:\Users\user\source\repos\dza\dza\obj\Debug\net6.0-windows\dza.genruntimeconfig.cache
